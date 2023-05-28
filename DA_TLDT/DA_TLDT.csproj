@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B9B7CD2-7CD0-4BCB-96BB-9ED6CEC815C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DA_TLDT</RootNamespace>
+    <AssemblyName>DA_TLDT</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BFSAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BFSAuto.Designer.cs">
+      <DependentUpon>BFSAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BFSStepOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BFSStepOne.Designer.cs">
+      <DependentUpon>BFSStepOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\BFS.cs" />
+    <Compile Include="Class\Data.cs" />
+    <Compile Include="Class\DFS.cs" />
+    <Compile Include="Class\Dijkstra.cs" />
+    <Compile Include="Class\Functions.cs" />
+    <Compile Include="Class\Kruscal.cs" />
+    <Compile Include="Class\LienThong.cs" />
+    <Compile Include="Class\Prim.cs" />
+    <Compile Include="DFSAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFSAuto.Designer.cs">
+      <DependentUpon>DFSAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFSStepOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFSStepOne.Designer.cs">
+      <DependentUpon>DFSStepOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DijkstraAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DijkstraAuto.Designer.cs">
+      <DependentUpon>DijkstraAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DijkstraStepOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DijkstraStepOne.Designer.cs">
+      <DependentUpon>DijkstraStepOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDijsktra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDijsktra.Designer.cs">
+      <DependentUpon>FormDijsktra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDFS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDFS.Designer.cs">
+      <DependentUpon>FormDFS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBFS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBFS.Designer.cs">
+      <DependentUpon>FormBFS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKruscal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKruscal.Designer.cs">
+      <DependentUpon>FormKruscal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLienThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLienThong.Designer.cs">
+      <DependentUpon>FormLienThong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrim.Designer.cs">
+      <DependentUpon>FormPrim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KruscalAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KruscalAuto.Designer.cs">
+      <DependentUpon>KruscalAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KruscalStepOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KruscalStepOne.Designer.cs">
+      <DependentUpon>KruscalStepOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrimAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrimAuto.Designer.cs">
+      <DependentUpon>PrimAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrimStepOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrimStepOne.Designer.cs">
+      <DependentUpon>PrimStepOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BFSAuto.resx">
+      <DependentUpon>BFSAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BFSStepOne.resx">
+      <DependentUpon>BFSStepOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFSAuto.resx">
+      <DependentUpon>DFSAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFSStepOne.resx">
+      <DependentUpon>DFSStepOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DijkstraAuto.resx">
+      <DependentUpon>DijkstraAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DijkstraStepOne.resx">
+      <DependentUpon>DijkstraStepOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBFS.resx">
+      <DependentUpon>FormBFS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDFS.resx">
+      <DependentUpon>FormDFS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDijsktra.resx">
+      <DependentUpon>FormDijsktra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKruscal.resx">
+      <DependentUpon>FormKruscal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLienThong.resx">
+      <DependentUpon>FormLienThong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrim.resx">
+      <DependentUpon>FormPrim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KruscalAuto.resx">
+      <DependentUpon>KruscalAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KruscalStepOne.resx">
+      <DependentUpon>KruscalStepOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrimAuto.resx">
+      <DependentUpon>PrimAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrimStepOne.resx">
+      <DependentUpon>PrimStepOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Noluc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open-file_40455.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_as.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Readfile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ứng dụng hỗ trợ học tập môn lý thuyết đồ thị %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xóa cạnh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xóa đỉnh.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

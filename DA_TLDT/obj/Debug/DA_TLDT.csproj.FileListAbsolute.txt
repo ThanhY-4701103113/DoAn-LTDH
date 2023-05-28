@@ -1,0 +1,129 @@
+D:\LT_DT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe.config
+D:\LT_DT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe
+D:\LT_DT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.pdb
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.AssemblyReference.cache
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.SuggestedBindingRedirects.cache
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.Properties.Resources.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.GenerateResource.cache
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.CoreCompileInputs.cache
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.exe
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.pdb
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmMain.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmNen.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmLienThong.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmBFS.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmDFS.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmDijkstra.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmKruscal.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmPrim.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe.config
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.pdb
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.AssemblyReference.cache
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.SuggestedBindingRedirects.cache
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmBFS.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmDFS.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmDijkstra.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmKruscal.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmLienThong.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmMain.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmNen.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmPrim.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.Properties.Resources.resources
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.GenerateResource.cache
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.CoreCompileInputs.cache
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.exe
+D:\LT_DT\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.pdb
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe.config
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.pdb
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.AssemblyReference.cache
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmBFS.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmDFS.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmDijkstra.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmKruscal.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmLienThong.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmMain.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmNen.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.frmPrim.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.Properties.Resources.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.GenerateResource.cache
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.exe
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.pdb
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSAuto.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSStepOne.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSAuto.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSStepOne.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraAuto.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraStepOne.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalAuto.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalStepOne.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimAuto.resources
+C:\Users\Thanh\Downloads\LT (1)\LT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimStepOne.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSAuto.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSStepOne.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSAuto.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSStepOne.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraAuto.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraStepOne.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalAuto.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalStepOne.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimAuto.resources
+D:\LT_DT\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimStepOne.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe.config
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.pdb
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSAuto.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSStepOne.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSAuto.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSStepOne.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraAuto.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraStepOne.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmBFS.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmDFS.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmDijkstra.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmKruscal.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmLienThong.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmMain.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmNen.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmPrim.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalAuto.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalStepOne.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimAuto.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimStepOne.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.Properties.Resources.resources
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.exe
+C:\Users\DELL\Documents\Zalo Received Files\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.pdb
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe.config
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.exe
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\bin\Debug\DA_TLDT.pdb
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.AssemblyReference.cache
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSAuto.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.BFSStepOne.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSAuto.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DFSStepOne.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraAuto.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.DijkstraStepOne.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmBFS.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmDFS.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmDijkstra.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmKruscal.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmLienThong.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmMain.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.FrmPrim.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalAuto.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.KruscalStepOne.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimAuto.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.PrimStepOne.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.Properties.Resources.resources
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.GenerateResource.cache
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.exe
+C:\Users\Thanh\OneDrive\Tài liệu\DA_TLDT\DA_TLDT\obj\Debug\DA_TLDT.pdb
